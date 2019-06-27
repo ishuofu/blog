@@ -1,0 +1,1 @@
+在写tidb，先update数据，然后batch写，会造成tidb 内存急剧上升
